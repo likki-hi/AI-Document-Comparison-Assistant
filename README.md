@@ -122,6 +122,8 @@ Through this project, I gained practical experience in:
 
 ## Author
 
+
+
 **Likitha Kalal**
 
 GitHub: [likki-hi](https://github.com/likki-hi)
@@ -133,3 +135,4 @@ GitHub: [likki-hi](https://github.com/likki-hi)
 ---
 
 *This project was developed as a hands-on Python and AI learning project.*
+
