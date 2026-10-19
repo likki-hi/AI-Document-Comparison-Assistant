@@ -94,11 +94,9 @@ The application will open in your browser. Upload two PDF documents to begin com
 
 ## Screenshots
 
-Add a screenshot of your running application to the `screenshots` folder.
+## Application Screenshot
 
-Once the image is saved as `document-comparison.png`, it will appear here:
-
-![AI Document Comparison Assistant](screenshots/document-comparison.png)
+![AI Document Comparison Assistant](screenshots/Screenshot%202026-10-19%20151135.png)
 
 ## Learning Outcomes
 
