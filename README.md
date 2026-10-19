@@ -92,11 +92,19 @@ The application will open in your browser. Upload two PDF documents to begin com
 6. Display similarity scores, charts, and keyword statistics.
 7. Download the comparison report as a PDF.
 
-## Screenshots
+## Application Screenshots
 
-## Application Screenshot
+### 1. Application Interface
+![Application Interface](screenshots/Screenshot%202026-10-19%20151048.png)
 
-![AI Document Comparison Assistant](screenshots/Screenshot%202026-10-19%20151135.png)
+### 2. Document Upload
+![Document Upload](screenshots/Screenshot%202026-10-19%20151102.png)
+
+### 3. Document Comparison Analysis
+![Document Comparison Analysis](screenshots/Screenshot%202026-10-19%20151118.png)
+
+### 4. Comparison Results
+![Comparison Results](screenshots/Screenshot%202026-10-19%20151135.png)
 
 ## Learning Outcomes
 
